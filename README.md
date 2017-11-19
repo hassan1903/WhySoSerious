@@ -6,3 +6,6 @@ npm i
 
 Çalıştırmak için:
 npm start
+
+Çalıştığı yer:
+localhost:3000
